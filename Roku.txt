@@ -1,0 +1,223 @@
+Last Updated:  April 16, 2018
+
+Roku Privacy Policy
+
+This Privacy Policy describes the information that Roku and its subsidiaries and affiliated companies (“Roku,” “we,” or “us”) collect about consumers (“you” and “your household”) and how we use and share that information. This Privacy Policy applies to information collected on the “Roku Services”, which includes:  Roku websites (“Roku Sites”), certain products utilizing Roku’s streaming platform or operating systems (including Roku players and Roku TVs) (collectively, “Roku Devices”), certain Roku co-branded channels (“Roku Direct Publisher Channels”), Roku’s mobile apps (including the Roku Mobile App), Roku branded channels like the Roku Media Player and The Roku Channel, the Roku emails and newsletters, and Roku’s accounts on third party social networking sites. This Privacy Policy does not apply to websites, applications or services that display or link to different Roku privacy statements.
+
+Third Party Policies
+
+Roku collaborates and has business relationships with other companies, for example, providers of channels, content and services (including analytics and ad-related services), who may also collect information from the Roku Services or from third party channels on the Roku Devices (“Third Party Channels”). Roku also has accounts on third party social networking sites that let you connect with and follow Roku on those sites.
+
+Roku’s Privacy Policy does not cover the actions of these or any third parties (except service providers acting solely on behalf of Roku), and Roku cannot control how such third parties may collect, use, or secure your data. For information about a third party’s privacy practices, please consult the privacy policy of that third party.
+
+Part I. Information Collection
+
+A. Information you provide
+
+Information you provide Roku through the Roku Services includes, for example, your name, email address, postal address (including zip code), billing and shipping information, telephone number, product purchase information, credit card and other payment data, product registration information, and demographics. If you connect with Roku’s accounts on third party social networking sites, we may also collect information about your social networking accounts, for example, your name, user name, or handle.
+
+We also collect the personal information of other people, for example, if you provide email addresses of friends for referrals or postal addresses of recipients for gift purchases.
+
+We may also combine information you provide with data we collect automatically (as further described in Part I, Section B below) and with data we receive from third parties. We may also associate information you provide with information we collect about you from different devices, browsers and platforms.
+
+B. Information collected automatically
+
+When you use the Roku Services, we and our partners may use unique device identifiers, cookies, pixel tags, web beacons and other similar technologies to receive and store information on an automated basis. See below for examples of such information.
+
+1. Roku Site data
+
+We may automatically collect information related to your use of Roku Sites - for example, we collect your computer’s or mobile device’s operating system type and version, Internet Protocol (IP) address, mobile device ID, access times, browser type and language, and the websites you visited before coming to a Roku Site. We also use cookies and related technologies such as web beacons to know when you return to Roku Sites after visiting third party sites, better understand your needs, remember your preferences, and to provide targeted advertising. For more information on how we and others use cookies and related technologies on Roku Sites, and your choices regarding the use of these technologies for tracking, please click here to review the Roku Cookies Policy.
+
+2. Roku Device data
+
+We regularly and automatically collect information about your Roku Devices and your usage. The collected information includes, for example, the IP address associated with your Roku Devices, your device types and models, device identifiers (including RIDAs as described in Part II, Section B-2 below), the retailer to whom your Roku Device was shipped, various quality measures, error logs, software version numbers, Wi-Fi network name (SSID – service set identifier) and strength, and information about other devices connected to your Roku Device.
+
+We also collect usage data such as your search history (including letters you key in for searches, and utterances provided if you choose to use voice-enabled functions such as voice search (if available on your Roku Device)), search results, content and advertisements you select and view, including through use of automatic content recognition technology (ACR) (see “Smart TV Experience and ACR on Roku TVs” (Part I, Section B-4) and “Choices regarding Smart TV Experience and ACR on Roku TVs” (Part IV, Section E), below), and content settings and preferences, channels you add and view, including time and duration in the channels, and other usage statistics.
+
+3. Data from Roku-branded Channels
+
+If you launch or view any Roku Direct Publisher Channel (a channel co-branded with the Roku logo on the channel’s home page), or The Roku Channel, Roku will also collect data about content and advertisements (if any) that you view within these channels. Additionally, the providers of Roku Direct Publisher Channels and its service providers may also collect viewing information and other information (including voice search data and voice-enabled commands, if you have enabled those permissions for the channel) through the providers’ channels, as may be described in their respective privacy policies. If you use the Roku Media Player channel to view your video or photo files or listen to your music files, Roku will collect data about the files viewed within the Roku Media Player, such as codecs, and other metadata of the local files you play through the Roku Media Player.
+
+4. Smart TV Experience and ACR on Roku TVs
+
+You can enable Roku’s Smart TV experience in two ways. You can enable “A Better Smart TV Experience from Roku!” during the initial TV set up (i.e., by not unchecking “Use this info to enhance TV viewing”). Alternatively, you can select “Use Info from TV Inputs” under Settings > Privacy > Smart TV Experience on your Roku TV’s Settings menu. If you enable Roku’s Smart TV experience, then in addition to the viewing information and other information that Roku collects from your Roku TV as described elsewhere in this policy, Roku also collects information about what you watch and when you watch (e.g., the programs, commercials and channels you viewed, and the date, time and duration of the viewing) via your Roku TV’s antenna, and devices connected to your Roku TV, including cable and satellite set top boxes. To do this, Roku uses technology such as ACR technology. The Roku TV also sends back to Roku the data received through the TV antenna and the data about how you use the on-screen TV guide. Based on all of this information, Roku may recommend personalized streaming content, serve personalized ads to you and measure viewership of ads and programming. We may supplement this viewing history with other demographic data we learn about you. We may also share viewing data collected via your Roku TV’s antenna and devices connected to your Roku TV (including those derived from ACR) with third parties for measurement purposes -- for example, to help them understand the audience viewing the ads or programs, or to measure the effectiveness of the ads (see “Roku Device and channel advertising” under Part II, Section B-2 below). Roku may also share this data with its partners to make advertising more relevant to you, such as delivering ads based on audience segments (for example, sports fans, sitcom enthusiasts, cord cutters, etc.).
+
+To understand your choices regarding ACR and use of viewing data collected from the antennas and TV inputs on Roku TVs, see Part IV, Section E on “Choices regarding Smart TV Experience and ACR on Roku TVs” below.
+
+5. Roku Mobile App data
+
+If you download Roku’s mobile apps to a mobile device, we also automatically log information related to your mobile device and network. We may log, for example, your device type, device identifiers, Wi-Fi networking connection data, information about connected Wi-Fi devices, the types and versions of mobile operating system you use, time-stamped logs of data exchanges associated with Roku’s mobile apps, and usage statistics associated with Roku’s mobile apps such as your search history (including letters you key in for searches, and utterances provided if you choose to use voice-enabled commands such as voice search (if available on your Roku Device)), search results, content you select and view, and channels you add and view. Third parties who provide us with analytics services for Roku’s mobile apps may also automatically collect some of the information described above. Please consult the respective privacy policies and statements of these third parties for more information, including how Google Analytics use this data. We also log whether you use a feature called Play on Roku to play content stored on your mobile device (such as music, photos, or videos) through the Roku Device connected with Roku’s mobile apps. To let you play videos, photos and music stored on your mobile device on your TV through the Roku Device, Roku’s mobile apps may need permissions to access the content and other information stored on your mobile device.
+
+Information about your use of Roku Services may be associated with your Roku account or with product device identifiers (such as product serial numbers and other identifiers including those used for advertising and analytics). We associate your device identifiers and usage data with your Roku accounts and other personally identifiable information for the purposes described in this Privacy Policy.
+
+6. Third party analytics and ad services
+
+Third parties who provide us with analytics services for the Roku Services may also automatically collect some of the information described above, including, for example, IP address, access times, browser type and language, device type, device identifiers and Wi-Fi information.
+
+Other third parties, including channel providers, advertisers and ad-related services, may also automatically collect information about you through the Roku Services and Third Party Channels, including personally identifiable information about your online activities over time and across different websites, devices, online channels and applications when you use the Roku Services. For example, channel providers and advertisers can collect information about your Roku Devices (including unique identifiers) and your usage of their channels for their own purposes, including advertising and analytics. Some third parties help us and others associate your activities (including activities outside of the Roku Services and activities across the browsers and devices you use, or that your household uses), for retargeting, cross-device advertising, analytics, and measurement purposes (see “Online Advertising” under Part II, Section B below). Some third parties, such as Google, may also collect information on behalf of Roku and others for online advertising purposes and to provide Roku and others, statistics about users of the Roku Services.
+
+Please consult the respective privacy policies and statements of these third parties for more information, including how channel providers and  Google uses data. To learn more about the use of cookies and related technologies by third parties on Roku Sites, and your choices regarding the use of these technologies for tracking, please click here to view the Roku Cookies Policy.
+
+C. Information we receive from third party data partners
+
+We may receive data about you from data providers and combine it with the data that we collect from you.
+
+Part II. Information Usage
+
+A. Use by or on behalf of Roku
+
+Information collected by Roku is used by Roku and others on Roku’s behalf for the following purposes:
+
+1. to understand how you and other users are using the Roku Services and our other products and services in order to make them better;
+
+2. to personalize your experience, suggest and offer you relevant content and recommendations, and display marketing and advertising tailored to your preferences on the Roku Services, Third Party Channels, and other third party websites, apps, platforms and devices;
+
+3. to process and fulfill your requests or orders;
+
+4. for marketing purposes, including sending you emails and text messages about products, events, promotions and offers from Roku or its partners or advertisers;
+
+5. to send you service information, including confirmations, invoices, notices, updates, security alerts, user surveys, and support and administrative messages;
+
+6. to respond to your comments and questions and provide customer service;
+
+7. for analyzing marketing and advertising effectiveness, our user base, product and service usage, feature and content popularity, software and hardware quality, market trends, and to improve and influence the design and competitiveness of future products and services;
+
+8. to provide periodic maintenance and support to the Roku Services, including automatic software updates;
+
+9. to enforce our terms and conditions or protect our business, partners or users; and
+
+10. to protect, investigate, and deter against fraudulent, unauthorized, infringing or illegal activity.
+
+B. Online advertising
+
+1. Web, mobile, email and third party device advertising
+
+We may use information collected using our own cookies, third party cookies, web beacons, and similar technologies on Roku Sites, Roku’s mobile apps, third party sites, and in our emails to deliver advertising to you on Roku Services, third party sites, mobile apps and devices. In doing so, we may associate information we collect using cookies and similar technologies with RIDAs.
+
+Certain third party ad networks may automatically collect information about your visits to Roku Sites and other third party websites and mobile apps, including your IP address, your Internet service provider, and the browser you use to visit Roku Sites (but not your name, address, email address or telephone number), and use this information to show you personalized advertisements. They do this by using cookies, web beacons, mobile device IDs or other similar technologies.
+
+For more information on the cookies and related technologies used on Roku Sites, and your choices regarding the use of these technologies for tracking, please click here to review the Roku Cookies Policy.
+
+To learn about your choices with regard to personalized advertising, please visit Information Access and Choices, below (Part IV.C-G).
+
+2. Roku Device and channel advertising
+
+Each Roku Device has unique identifiers, including unique, non-permanent identifiers called Roku Identifiers for Advertisers (RIDAs). We may use your IP address, RIDAs, and information associated with RIDAs to try to understand your interests, determine your location, and show you and facilitate others’ ability to show you, more relevant advertising from Roku, Third Party Channels, and other advertisers, and understand the effectiveness of such advertising. We may supplement that information with information collected from the Roku Services, Third Party Channels, our emails, and websites, mobile apps, devices, platforms and data sources of third parties to further personalize the advertising you see in our emails and on your Roku Devices, Roku’s mobile apps, Roku Direct Publisher Channels, The Roku Channel, Third Party Channels, and third party websites, apps, and devices. We may also associate information collected using RIDAs with other information that identifies you, your household or your devices to personalize the advertising you see on third party websites, mobile apps, devices and platforms and other Roku Devices. We use third party service providers, such as Google, to help deliver, personalize and target this advertising.
+
+Channel providers, third party advertisers, measurement providers, and ad services may also use RIDAs and other information they collect about you from your Roku Devices, Roku Direct Publisher Channels, The Roku Channel and Third Party Channels for their own advertising purposes. Information collected may be used, among other things, to deliver advertising relevant to your interests and to better understand the usage and visitation of the channels and the effectiveness of the advertising.
+
+Certain third parties that provide measurement services with whom Roku has a business relationship (including Nielsen and comScore) may use RIDAs or IP addresses to collect information about your viewing of or interaction with advertisements on Roku devices. Such information may include viewing data collected within Roku Direct Publisher Channels, The Roku Channel and Third Party Channels that enable such tracking, as well as viewing data that Roku collects from your Roku TV’s antenna and connected devices (if you enable Roku’s Smart TV experience as described above in Part I, Section B-4). When we partner with measurement providers solely for the purpose of their providing measurement services to Roku, we may share your personal information with these providers; if we do, we will not share your viewing data. When we partner with measurement providers that will use your information to provide measurement services to their clients, we will only share information that does not personally identify you directly. However, if these measurement providers have your identifiable information (e.g., if you have provided it to them or they have obtained it from a third party), then they may be able to associate that data, as well as any other data they have about you, with the information we provide to them). Roku may also share your demographics data and audience segments (e.g. sports fans, sitcom enthusiasts, cord cutters, etc.) with measurement providers. Measurement providers use your information to create statistics about what content and ads are being watched – for example, to help them and their clients understand the audience viewing the content or ads, and measure the effectiveness of the ads.
+
+To learn more about your choices with respect to ad measurement activities, and the use of RIDAs for personalized advertising and ad measurement, see Part IV, Section D “Roku Device and channel RIDA choices.”
+
+Part III. Information Sharing
+
+A. Your sharing
+
+You can share reviews or feedback on the Roku Sites and comments and content on Roku’s developer forums, message boards, and accounts on third party social networking sites. Information posted in these venues may be available to the public. You can also share with Roku personal information of other people as described in “Information You Provide” under Part I, Section A above (e.g., for referrals or gift purchases). We rely on you to obtain the permission of those other people to allow us to collect their personal information. Please be mindful of your own privacy needs and those of others as you choose what to share and make public. We cannot control the privacy or security of information you choose to make public.
+
+B. Roku’s sharing
+
+Roku shares information with third parties whose services are available through the Roku Services. For example, we may share information collected from the Roku Devices with Third Party Channel providers and Roku Direct Publisher Channel content providers. The use of data by such third parties is subject to their respective privacy policies.
+
+Roku uses third parties (including contractors and service providers) to provide services for us and to help with our operations, which may require that they access and use your information. For example, Roku may use a third party to communicate with you (via telephone, email, or letter) about our products or services, to send information to you, to process and collect payment via your credit card (if applicable), to provide customer support, to receive additional data about you, and to perform analytics and other work that we may need to outsource.
+
+We may share some or all of your information with our current or future “affiliates” (which means a parent company, any subsidiaries, joint ventures, or other companies under common control), in which case we will require our affiliates to honor this Privacy Policy.
+
+Roku may share your IP address, RIDA and other device identifiers in order to show you personalized advertisements on third party websites, mobile apps, and devices.
+
+Roku also may share personally identifying information with your consent, for example, when you agree to our sharing of your personally identifying information with other third parties for their own marketing purposes, subject to their separate privacy policies.
+
+Roku may also share your information with others in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company.
+
+Roku may also share your information to (1) comply with laws or to respond to lawful requests and legal process, (2) to protect the rights and property of Roku, our employees, agents, customers, and others, including to enforce our agreements, policies, and terms of use, or (3) in an emergency to protect the personal safety of Roku, its employees or customers, or any person, or (4) to investigate, prevent, or take action regarding illegal or suspected illegal activities.
+
+Finally, we may also share aggregated or de-identified (i.e., information that does not personally identify you directly), or statistical information about you, including demographics data and audience segments (e.g., sports fans, sitcom enthusiasts, cord cutters, etc.), with others for a variety of purposes, including for their own uses, for example, for improving their products and services for Roku and others, and to make advertisements more relevant to your interests.
+
+Part IV. Information Access and Choices
+
+A. General requests
+
+If you have a Roku account, you may view and update certain contact and billing information we have about you by logging into your account on Roku.com. If you otherwise wish to ask for access, correction, or deletion of any of your personal information held by us or a change in the way we use your information (for which we reserve the right to charge you a fee, as permitted by applicable law), please contact us at: customer.advocate@roku.com. However, Roku may decline requests that are unreasonable, prohibited by law, or are not required to be honored by applicable law.
+
+B. Email marketing choices
+
+Our marketing emails tell you how to “opt-out” of receiving further marketing emails. If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you, and as allowed by applicable law, requests for your participation in surveys. You may also contact us at customer.advocate@roku.com at any time to let us know that you no longer wish to receive further marketing emails.
+
+C. Mobile app and website advertising choices
+
+You can opt out of personalized advertising when you use Roku’s mobile app, and from receiving personalized ads from Roku and our advertising partners on third party mobile applications, by accessing any settings offered by your mobile operating system to limit ad tracking, or by using the AppChoices mobile app, which you can download from your App Store or the DAA’s AppChoices page here.
+
+To opt out of personalized advertising when you visit the Roku Site, and from receiving personalized ads from Roku and our advertising partners on third party websites, you can visit the DAA opt-out page here or use the opt-out tool included in Roku’s cookie policy here.
+
+D. Roku Device and channel RIDA choices
+
+You have the following choices about Roku’s use of RIDAs on your Roku Device. These choices are device specific, so if you have more than one Roku Device, you must make these choices in the “Settings” menu of each Roku Device. If you choose one of these options, your choice will apply only to the specific Roku Device from which you made your choice. If you perform a device factory reset, you will remove this preference and will need to renew your selection.
+
+1. Reset Advertising Identifier. You can reset the RIDA on your Roku Device by choosing “Reset Advertising Identifier” in your Roku Device settings. When you reset the RIDA for your Roku Device, the original identifier will no longer be used to display personalized ads on that Roku Device. A new identifier will be assigned for that purpose.
+
+2. Limit Ad Tracking. If you check “Limited Ad Tracking” on a Roku Device that has personalized ads and ad measurement enabled:
+
+·       Roku will not serve personalized ads to you on that Roku Device based on information tied to that device’s RIDA. You will, however, still see ads on that Roku Device, but these ads will be less relevant as they will not be customized based on the RIDA for that Roku Device. Your selection will affect only the ads delivered by Roku on that Roku Device. In addition, Roku will make available to channel providers your preference that they not use your RIDA to display personalized ads on your Roku Device. Roku, however, cannot guarantee that such channel providers will honor your preference. For example, if you are logged into a channel that requires you to create an account with that channel provider, the channel provider will be able to serve you targeted ads based on information it associates with your account with the channel provider. For information on a specific channel provider’s advertising and privacy practices, you should consult that channel’s privacy policy; and
+
+·       Ad measurement data and viewing data that your Roku Device collects, using RIDA, from streaming channels on the Roku Device (i.e., channels that you have downloaded or that were pre-installed on your Roku Device to stream content over the Internet) will not be shared by Roku with measurement providers such as Nielsen and comScore. However, selecting Limit Ad Tracking may not stop the channel provider from passing data it collects through its own channel to measurement providers or other third parties. If you enable “A Better Smart TV Experience from Roku!” during the initial TV set up, or if you select “Use Info from TV Inputs” under Settings > Privacy > Smart TV Experience on your Roku TV’s Settings menu, then selecting Limit Ad Tracking on your Roku TV will not prevent sharing of viewing data collected through your Roku TV’s antenna or TV inputs (including those collected using ACR) with measurement providers such as Nielsen and comScore. See Part I, Sections B-4 and Part IV, Section E for information about your options regarding “Smart TV Experience” and ACR viewing data on Roku TVs.
+
+E. Third Party OTT Device choices
+
+To opt out of receiving personalized ads from Roku on third party devices that can connect to a TV (or functionality within the TV itself) to facilitate the delivery of Internet-based video content such as Smart TVs, set top boxes, media streaming devices, and gaming consoles (collectively, “OTT Devices”), click here. We associate your opt-out choice with the IP address you are currently using; if you access third party OTT Devices from a different IP address, you will need to opt out while connected to that different IP address.
+
+F. Choices regarding “Smart TV Experience” and ACR on Roku TVs
+
+You have the option to enable or disable Roku’s use of viewing data collected from your Roku TV’s antenna and devices connected to your Roku TV (including cable and satellite set top boxes) in order to enhance your TV viewing experience. You may enable this feature during the setup process for your Roku TV. After the initial Roku TV set up is completed, you may also enable or disable this feature at any time by selecting “Use Info from TV Inputs” under Settings > Privacy > Smart TV Experience on your Roku TV’s Settings menu. If you enable this feature and later disable it, the data that was collected while the feature was enabled will be retained by Roku and may still be shared with third parties for the purposes described in this Privacy Policy.
+
+If you disable or don’t enable this feature, Roku will not use ACR to collect information about what you watch via the devices connected to your Roku TV or your Roku TV antenna. Your choice will only affect this Roku TV. Your selection will not affect data collected by Roku through its streaming service. For example, Roku will still collect and may share other information about your use of streaming channels on your Roku TV (i.e., channels that you have downloaded through Roku’s streaming service or channels that Roku pre-installed on your Roku TV to stream content over the Internet). Disabling this feature will not affect your receipt of personalized ads, or ad and program measurement, on Roku TVs or elsewhere. For information about your options regarding sharing of viewing information collected from streaming channels and personalized ads on Roku Devices, see Part IV, Section D above, “Reset Advertising Identifier” and “Limit Ad Tracking and Measurement,” and your Roku TV’s Settings menu.
+
+G. Voice Feature Choices
+
+From the Settings menu of a Roku Device with voice-activated features (under Settings > Privacy > Microphone), you can revoke microphone permissions from individual applications. From the Settings menu, you may also prohibit all channel applications from accessing the microphone.
+
+H. Do Not Track
+
+At this time there is no accepted standard for how to respond to Do Not Track signals, and we do not respond to such signals.
+
+Part V. Data Storage, Transfer and Security
+
+Roku uses industry-standard methods of securing its electronic databases of personal information. However, you should know that no company, including Roku, can fully eliminate security risks associated with personal information. To help protect yourself, please use a strong password, do not use the same passwords to access your Roku accounts that you use with other accounts or services, and protect your user names and passwords to help prevent others from accessing your accounts and services.
+
+Roku is a global company with affiliates, varied business processes, management structures and technical systems that cross borders. Information collected by Roku or on our behalf may be stored on your Roku Devices, on your mobile device if you use Roku’s mobile apps, or on our servers, and may be transferred to, accessed from, or stored and processed in, the United States, EU member state countries, India, the Philippines and Costa Rica, and any other country where Roku or its service providers maintain facilities or call centers, including jurisdictions that may not have data privacy laws that provide protections equivalent to those provided in your home country. However, we will protect all personal information we obtain in accordance with this Privacy Policy and take reasonable steps to ensure that it is treated lawfully.
+
+Personal information we collect may be retained for as long as needed to fulfill legitimate business purposes, including the purposes outlined in “Information Usage” under Part II, or for a period of time specifically required or allowed by applicable regulations or laws.
+
+Part VI. Modifications
+
+We may amend this Privacy Policy at any time by posting the amended version on the applicable Roku Site or by providing such notice about or obtaining consent to changes as may be required by applicable law.
+
+Part VIII. Contact Information
+
+If you have any questions regarding this Privacy Policy:
+
+For visitors from a country in the European Economic Area, contact Roku Europe Limited (the data controller) using the following details:
+
+Attn: Legal Department
+
+Roku Europe Limited
+
+11th Floor, Whitefriars, Lewins Mead
+
+Bristol, BS1 2NT,
+
+United Kingdom
+
+privacyUK@roku.co.uk
+
+For visitors from any other country outside of the European Economic Area, contact:
+
+Attn: Legal Department
+
+Roku, Inc.
+
+150 Winchester Circle
+
+Los Gatos, CA 95032, U.S.A.
+
+privacy@roku.com
